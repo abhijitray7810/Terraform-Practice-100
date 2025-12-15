@@ -24,9 +24,9 @@ output "snapshot_id" {
   description = "The ID of the created snapshot"
 }
 
-output "snapshot_status" {
-  value       = aws_ebs_snapshot.nautilus_snapshot.state
-  description = "The status of the snapshot"
+output "snapshot_arn" {
+  value       = aws_ebs_snapshot.nautilus_snapshot.arn
+  description = "The ARN of the snapshot"
 }
 
 output "volume_id" {
