@@ -1,1 +1,1 @@
-![image]()
+![image](https://github.com/abhijitray7810/Terraform-Practice-100/blob/19c8dfbe096a5d9bdc2604dd216ce0e842dcfe95/Day%2020%3A%20Create%20DynamoDB%20Table%20Using%20Terraform/Screenshot%202026-01-17%20104810.png)
