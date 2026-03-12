@@ -21,7 +21,7 @@ cd /home/bob/terraform
 terraform init
 terraform apply -auto-approve
 ```
-![image]()
+![image](https://github.com/abhijitray7810/Terraform-Practice-100/blob/9c8921baf9d72b51d3f5afc921b6c067b4a05bf9/Day%2028%3A%20Secrets%20Manager%20Setup%20Using%20Terraform/Screenshot%202026-03-12%20194550.png)
 ## Resources Created
 
 - **aws_secretsmanager_secret** — secret named `nautilus-secret`
