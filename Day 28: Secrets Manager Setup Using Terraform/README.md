@@ -13,7 +13,7 @@ Terraform configuration to securely store sensitive credentials in AWS Secrets M
 |-----|-------|
 | `username` | admin |
 | `password` | Namin123 |
-![image]()
+![image](https://github.com/abhijitray7810/Terraform-Practice-100/blob/f6823659ee4f4fb9c9109b4c58c283b0c0e8aa70/Day%2028%3A%20Secrets%20Manager%20Setup%20Using%20Terraform/Screenshot%202026-03-12%20194541.png)
 ## Usage
 
 ```bash
