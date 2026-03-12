@@ -6,7 +6,7 @@ Terraform configuration to securely store sensitive credentials in AWS Secrets M
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.0
 - AWS CLI configured with appropriate credentials
-![image]()
+![image](https://github.com/abhijitray7810/Terraform-Practice-100/blob/8624da9416753b1bb962d2fbff45daf7bb41a3d5/Day%2028%3A%20Secrets%20Manager%20Setup%20Using%20Terraform/Screenshot%202026-03-12%20194519.png)
 ## Secret Details
 
 | Key | Value |
